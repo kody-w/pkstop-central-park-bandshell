@@ -1,0 +1,16 @@
+{
+  "schema": "rapp-rappid/1.1",
+  "rappid": "43a4562e-de89-4cd0-be67-ffec7264c567",
+  "kind": "place",
+  "name": "pkstop-central-park-bandshell",
+  "display_name": "Central Park Bandshell",
+  "github": "https://github.com/kody-w/pkstop-central-park-bandshell",
+  "url": "https://kody-w.github.io/pkstop-central-park-bandshell",
+  "parent_rappid": "0b635450-c042-49fb-b4b1-bdb571044dec",
+  "parent_repo": "https://github.com/kody-w/rapp-installer",
+  "planted_by": "kody-w",
+  "planted_at": "2026-05-06T01:02:48Z",
+  "planted_from": null,
+  "kernel_version": "0.6.0",
+  "location": "Central Park, New York City"
+}
