@@ -1,16 +1,17 @@
 {
-  "schema": "rapp-rappid/1.1",
-  "rappid": "43a4562e-de89-4cd0-be67-ffec7264c567",
-  "kind": "place",
+  "schema": "rapp-rappid/2.0",
+  "rappid": "rappid:v2:neighborhood:@kody-w/pkstop-central-park-bandshell:ae606a83b4e3335c9809fe2556b541a4@github.com/kody-w/pkstop-central-park-bandshell",
+  "kind": "neighborhood",
   "name": "pkstop-central-park-bandshell",
-  "display_name": "Central Park Bandshell",
+  "display_name": "Pkstop \u2014 Central Park Bandshell",
   "github": "https://github.com/kody-w/pkstop-central-park-bandshell",
-  "url": "https://kody-w.github.io/pkstop-central-park-bandshell",
-  "parent_rappid": "0b635450-c042-49fb-b4b1-bdb571044dec",
-  "parent_repo": "https://github.com/kody-w/rapp-installer",
+  "url": "https://kody-w.github.io/pkstop-central-park-bandshell/",
+  "parent_rappid": null,
+  "parent_repo": "https://github.com/kody-w/RAPP",
   "planted_by": "kody-w",
-  "planted_at": "2026-05-06T01:02:48Z",
-  "planted_from": null,
+  "planted_at": "2026-05-09T22:11:59Z",
   "kernel_version": "0.6.0",
-  "location": "Central Park, New York City"
+  "_planted_by_agent": "backfill_seeds",
+  "_backfilled_at": "2026-05-09T22:11:59Z",
+  "_backfill_reason": "Article XLVI compliance pass"
 }
