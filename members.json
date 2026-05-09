@@ -1,0 +1,15 @@
+{
+  "schema": "rapp-neighborhood-members/1.0",
+  "neighborhood": "kody-w/pkstop-central-park-bandshell",
+  "updated_at": "2026-05-09T22:12:05Z",
+  "open_to_anyone": true,
+  "members": [
+    {
+      "rappid": "rappid:v2:neighborhood:@kody-w/pkstop-central-park-bandshell:ae606a83b4e3335c9809fe2556b541a4@github.com/kody-w/pkstop-central-park-bandshell",
+      "github": "kody-w",
+      "role": "founder",
+      "joined_at": "2026-05-09T22:12:05Z",
+      "_note": "The operator who planted this pkstop-central-park-bandshell."
+    }
+  ]
+}
