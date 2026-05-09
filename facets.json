@@ -1,0 +1,6 @@
+{
+  "schema": "rapp-facets/1.0",
+  "rappid": "rappid:v2:neighborhood:@kody-w/pkstop-central-park-bandshell:ae606a83b4e3335c9809fe2556b541a4@github.com/kody-w/pkstop-central-park-bandshell",
+  "facets": {},
+  "_note": "Declare published capabilities here over time. See specs/SPEC.md \u00a73."
+}
