@@ -52,7 +52,7 @@
     "quality_tier": "community",
     "license": "PolyForm-Small-Business",
     "kind": "neighborhood",
-    "rappid": "rappid:v2:neighborhood:@kody-w/pkstop-central-park-bandshell:ae606a83b4e3335c9809fe2556b541a4@github.com/kody-w/pkstop-central-park-bandshell",
+    "rappid": "rappid:@kody-w/pkstop-central-park-bandshell:b8d09ab6a91a777aafbaccf61aa5a766a26b7c1e17b55e4eccc193d10a4fa812",
     "gate_url": "https://kody-w.github.io/pkstop-central-park-bandshell/",
     "summon_url": "https://kody-w.github.io/RAPPcards/#summon&seed=12519687129528264196",
     "_compliance": "rappcards/1.1.2 \u2014 kody-w/RAPPcards/SPEC.md"
