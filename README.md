@@ -1,5 +1,9 @@
 # Central Park Bandshell
 
+<!-- rapp1:network-header:start -->
+[![RAPP/1](https://kody-w.github.io/rapp-hive-public/portfolio/badges/pkstop-central-park-bandshell.svg)](https://github.com/kody-w/rapp-hive-public/blob/main/portfolio/repos/pkstop-central-park-bandshell.md) · **New to RAPP?** [Start here: get your Brainstem →](https://github.com/kody-w/rapp-installer#start-here)
+<!-- rapp1:network-header:end -->
+
 > A RAPP front door on the public internet. Real estate, not software.
 
 - **Address:** `kody-w.github.io/pkstop-central-park-bandshell`
